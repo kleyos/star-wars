@@ -1,7 +1,7 @@
 # for Plastic Jam
 
 <<<<<<< HEAD
-A simple React + Redux implementation.
+A simple React + Redux implementation with Routing.
 =======
 A simple React + Redux implementation. 
 >>>>>>> a06ca294fc6fc7d31f37a2d616b994f63a82565b
